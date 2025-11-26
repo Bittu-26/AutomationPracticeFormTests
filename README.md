@@ -54,5 +54,5 @@ To run this project successfully, you will need the following environment config
 
    ```csharp
    // Update this path to the folder containing your chromedriver.exe
-   string baseDriverPath = @"C:\Users\LOQ\Downloads\chrome-win64";
+   string baseDriverPath = @"Your Location Here";
    
