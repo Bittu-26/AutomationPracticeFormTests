@@ -5,7 +5,7 @@ using OpenQA.Selenium.Support.UI;
 using System;
 using System.IO;
 
-[TestFixture]
+[TestFixture] 
 public class AutomationPracticeFormTests
 {
     private IWebDriver? driver; 
@@ -148,4 +148,5 @@ public class AutomationPracticeFormTests
         
         Console.WriteLine("Successfully clicked the 'Submit' button.");
     }
+
 }
