@@ -3,7 +3,7 @@
 This project contains automated End-to-End (E2E) tests written in **C#** using the **Selenium WebDriver** and **NUnit** framework.
 
 The primary goal of this project is to demonstrate **resilient locator strategies** that make the automated tests stable and maintainable, even when the underlying HTML attributes (like IDs or class names) or the element positions change on the target web page.
-
+ 
 ## 🎯 Project Objective
 
 The tests target the public practice form located at `http://app.cloudqa.io/home/AutomationPracticeForm`.
